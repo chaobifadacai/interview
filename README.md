@@ -21,9 +21,11 @@ Java
 
 **微信群**
 
-为大家提供一个学习交流平台，在这里你可以自由地讨论技术问题。微信号：chaobifadacai![微信群](images/weixin.png)
+为大家提供一个学习交流平台，在这里你可以自由地讨论技术问题。微信号：chaobifadacai 
 
-​             对技术感兴趣的同学可进群（备注:Java）
+​			  微信群					           公众号
+
+ ![微信群](images/weixin.png)![公众号](images/gongzhonghao.jpg)             
 
 
 
