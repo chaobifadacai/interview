@@ -23,7 +23,7 @@ Java
 
 为大家提供一个学习交流平台，在这里你可以自由地讨论技术问题。微信号：chaobifadacai 
 
-​			  微信群					           公众号
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 微信群&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 公众号
 
  ![微信群](images/weixin.png)![公众号](images/gongzhonghao.jpg)             
 
