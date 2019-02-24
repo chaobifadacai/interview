@@ -1,16 +1,16 @@
 **个人简历**
 
-**求职意向****:**  架构师，技术经理
+**求职意向** 架构师，技术经理
 
-**个人信息****:**
+**个人信息**
 
-姓名：XXX    				出生年月：XXXX-XX-XX
+姓名：XXX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出生年月：XXXX-XX-XX
 
-电话：XXXXXXXXXXXXX      	Email：XXXXXXXXXXXXXXXXXXXXXXXXX
+电话：XXXXXXXXXXXXX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email：XXXXXXXXXXXXXXXXXXXXXXXXX
 
-性别：XX                         	     籍    贯：XXXX
+性别：XX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;籍    贯：XXXX
 
-博客：XXXXXXXXXXXXXX	    GitHub：XXXXXXXXXXXXXXXXXXX
+博客：XXXXXXXXXXXXXX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub：XXXXXXXXXXXXXXXXXXX
 
 **教育经历**
 
